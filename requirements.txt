@@ -1,0 +1,10 @@
+Flask
+gunicorn
+requests==2.31.0      # For making HTTP requests
+Flask-SQLAlchemy==3.0.5  # For SQLAlchemy ORM support
+python-dotenv==1.0.0  # For managing environment variables
+Flask-Login==0.6.3    # For user authentication
+
+azure-identity
+azure-keyvault-secrets
+azure-storage-blob
